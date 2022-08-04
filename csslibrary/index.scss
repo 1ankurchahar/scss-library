@@ -1,0 +1,18 @@
+// VARIABLES and FUNCTIONS
+@import "_functions";
+@import "_variables";
+
+// base and layout
+@import "_base";
+@import "_breakpoints.scss";
+@import "_grid.scss";
+//
+@import "_colors.scss";
+
+// components (button,card,navbar etc)
+@import "components/_button.scss";
+@import "components/_card.scss";
+@import "components/_navbar.scss";
+
+// utilities(margin,padding,opacity)
+@import "_utilities.scss";
